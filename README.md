@@ -26,7 +26,7 @@ Passionate about learning new technologies, contributing to delivering impactful
 - Refactored outdated code for companyʼs main application, which enhanced its performance by **74.6%** and increased throughput by **62.3%.**
 - Conducted Java unit testing for new software features, identifying and rectifying **30+** significant bugs prior to deployment.
 - Implemented robust RESTful APIs to support mobile and web applications, leading to an improved user experience and faster load times. 
-- Developed and maintained backend services using Java and Spring Boot for an e- commerce platform, handling up to **5000** transactions per second.
+- Developed and maintained backend services using Java and Spring Boot for banking platform, handling up to **5000** transactions per second.
 
 **Technologies:** Java, Spring Boot, Spring Data JPA, Spring MVC, Spring Security, Kafka, Hibernate, Postgresql, Liquibase, BitBucket, Gradle, BPMN Camunda, BPM
 
