@@ -1,10 +1,10 @@
-[**ALEX SERBIN ](https://example.com)** Java developer, 6+ years experience![](Aspose.Words.d8c60c2b-a73d-43ff-a593-e2785fdce4a8.001.png)
+[**ALEX SERBIN ](https://example.com)** Java developer, 7+ years experience![](Aspose.Words.d8c60c2b-a73d-43ff-a593-e2785fdce4a8.001.png)
 
 <alex.serbin.dev@gmail.com>[ +31(970)1020-9878](tel:+31\(970\)1020-9878) GMT+2                [LinkedIn](https://www.linkedin.com/in/alex-serbin-dev)[ GitHub](https://github.com/AlexSerbinDev)[ WhatsApp](https://wa.me/3197010209878)
 
 **ABOUT![](Aspose.Words.d8c60c2b-a73d-43ff-a593-e2785fdce4a8.002.png)**
 
-Java Developer with over **6 years of experience** building scalable enterprise applications. Proficient in **Spring framework** and its ecosystem. Have strong understanding of software **design patterns** and **best practices**. Strong knowledge of **microservices** and **monolithic** architectures. 
+Java Developer with over **7 years of experience** building scalable enterprise applications. Proficient in **Spring framework** and its ecosystem. Have strong understanding of software **design patterns** and **best practices**. Strong knowledge of **microservices** and **monolithic** architectures. 
 
 Experienced in the **full development cycle**, from gathering requirements to automated CI/CD pipelines and robust test coverage.
 
